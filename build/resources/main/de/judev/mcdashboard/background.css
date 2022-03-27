@@ -1,0 +1,32 @@
+.bodybg{
+    -fx-background-color: #313638;
+}
+
+#listView {
+    -fx-background-color: #E0DFD5;
+}
+
+#directory {
+    -fx-background-color: #E0DFD5;
+}
+
+#browse {
+    -fx-background-color: #F06543;
+}
+
+#searchbar {
+    -fx-background-color: #F06543;
+    -fx-text-fill: #E0DFD5;
+}
+
+#stats {
+    -fx-background-color: #E0DFD5;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
+
+#uuid {
+    -fx-background-color: #F06543;
+    -fx-font-weight: bold;
+    -fx-text-fill: #fff;
+}
