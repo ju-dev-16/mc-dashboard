@@ -1,1 +1,13 @@
-# mc-dashboard
+# MC-Dashboard
+
+Hi! First of all what is MC-Dashbard and how can I use it? MC-Dashboard is a open source minecraft dashboard, that allows server owners or admins to manage their whitelist. The operation is simple. First you have to select your whitelist.json file ( or other named files containing the whitelist ). The program generate a list of all players in the file and allows you to see more informations about them.
+
+
+# Downloads
+
+Placeholder
+
+
+## The GUI
+
+![GUI](gui.png)
