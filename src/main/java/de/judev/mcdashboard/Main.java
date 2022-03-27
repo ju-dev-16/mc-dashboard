@@ -16,7 +16,7 @@ public class Main extends Application {
     public void start(Stage stage) throws IOException {
         Parent root = FXMLLoader.load(Objects.requireNonNull(getClass().getResource("view.fxml")));
         stage.setTitle("MC Dashboard");
-        stage.getIcons().add(new Image("C:\\Users\\JuDEV\\IdeaProjects\\mc-dashboard\\src\\main\\resources\\de\\judev\\mcdashboard\\icon.png"));
+        stage.getIcons().add(new Image(String.valueOf(getClass().getResource("icon.png"))));
         stage.setResizable(false);
         stage.setScene(new Scene(root));
         stage.show();

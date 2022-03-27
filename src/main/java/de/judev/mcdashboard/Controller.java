@@ -88,7 +88,7 @@ public class Controller {
         }
 
         searchbar.setDisable(false);
-        currentImg.setImage(new Image("C:\\Users\\JuDEV\\IdeaProjects\\mc-dashboard\\src\\main\\resources\\de\\judev\\mcdashboard\\user.png"));
+        currentImg.setImage(new Image(String.valueOf(getClass().getResource("user.png"))));
         currentLabel.setText("Click on a player");
         currentLabel.setLayoutX(440);
     }
@@ -96,7 +96,8 @@ public class Controller {
     @FXML
     void search() {
         currentLabel.setText("Click on a player");
-        currentImg.setImage(new Image("C:\\Users\\JuDEV\\IdeaProjects\\mc-dashboard\\src\\main\\resources\\de\\judev\\mcdashboard\\user.png"));
+        currentImg.setImage(new Image(String.valueOf(getClass().getResource("user.png"))));
+        currentLabel.setLayoutX(440);
         body.setImage(null);
         name.setOpacity(0);
         uuid.setOpacity(0);

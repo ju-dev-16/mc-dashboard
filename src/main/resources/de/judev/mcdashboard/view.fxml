@@ -53,7 +53,7 @@
          <Font size="15.0" />
       </font>
       <cursor>
-         <Cursor fx:constant="TEXT" />
+         <Cursor fx:constant="DEFAULT" />
       </cursor>
    </TextField>
    <TextField id="uuid" fx:id="uuid" alignment="CENTER" editable="false" layoutX="511.0" layoutY="105.0" opacity="0.0" prefHeight="38.0" prefWidth="237.0">
@@ -61,7 +61,7 @@
          <Font size="11.0" />
       </font>
       <cursor>
-         <Cursor fx:constant="TEXT" />
+         <Cursor fx:constant="DEFAULT" />
       </cursor>
    </TextField>
    <Button id="browse" layoutX="626.0" layoutY="169.0" mnemonicParsing="false" onAction="#download" opacity="0.0" prefHeight="31.0" prefWidth="122.0" text="Download Skin" textFill="WHITE">
