@@ -10,4 +10,4 @@ Coming soon...
 
 ## The GUI
 
-![GUI](https://github.com/ju-dev-16/mc-dashboard/tree/main/src/main/resources/de/judev/mcdashboard/gui.jpg)
+![](https://github.com/ju-dev-16/mc-dashboard/tree/main/src/main/resources/de/judev/mcdashboard/gui.jpg)
