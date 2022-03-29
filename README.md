@@ -7,7 +7,7 @@ Hi! First of all **what** is **MC-Dashbard** and **how** can I use it? MC-Dashbo
 
 | OS | Version | Release | .jar File |
 |:-:|:-:|:-:|:-:|
-| All| 1.0 | 03/27/2022 | [mc-dashboard.jar](https://github.com/ju-dev-16/mc-dashboard/raw/main/out/artifacts/mc_dashboard_jar/mc-dashboard.jar)|
+| All| 1.0 | 03/27/2022 | *[mc-dashboard.jar](https://github.com/ju-dev-16/mc-dashboard/raw/main/out/artifacts/mc_dashboard_jar/mc-dashboard.jar)*|
 
 ## The GUI
 
